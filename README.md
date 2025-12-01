@@ -70,7 +70,7 @@ Para recriar o ambiente e testar o modelo:
 4.  Execute o script `dml_insert_data.sql` para popular as tabelas.
 5.  Execute os demais scripts (`dml_select_queries.sql`, `dml_update_delete.sql`) para testar as manipulações de dados e validar as regras de integridade.
 6.  
-> **Link Direto per il Diagramma Finale:** **[COLA QUI L'URL DIRETTO DELLA TUA IMMAGINE DER]**
+> **Link Direto per il Diagramma Finale:** **[ASSETS/DIAGRAMA_DER_TEC.jpeg]**
 ---
 
 Desenvolvido para fins de estudo e validação de modelagem de dados.
