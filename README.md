@@ -25,7 +25,7 @@ A arquitetura do banco de dados foi projetada para otimizar transações e consu
 
 
 
-> **Link Direto para o Diagrama Final:** `[LINK_DO_DIAGRAMA]`
+> **Link Direto para o Diagrama Final:** `ASSETS/der.final.png`
 
 ***
 
@@ -70,7 +70,6 @@ Para recriar o ambiente e testar o modelo:
 4.  Execute o script `dml_insert_data.sql` para popular as tabelas.
 5.  Execute os demais scripts (`dml_select_queries.sql`, `dml_update_delete.sql`) para testar as manipulações de dados e validar as regras de integridade.
 6.  
-> **Link Direto per il Diagramma Finale:** **[ASSETS/der.final.png]**
 ---
 
 Desenvolvido para fins de estudo e validação de modelagem de dados.
